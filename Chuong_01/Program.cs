@@ -11,6 +11,9 @@ namespace Chuong_01
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to OOP with C#");
+            int x = 5;
+
+            Console.WriteLine("x= {0}",x);
             Console.Read();
         }
     }
